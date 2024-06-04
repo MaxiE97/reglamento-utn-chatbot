@@ -1,1 +1,7 @@
+Dado el siguiente artículo, genera preguntas y respuestas relacionadas con el contenido del texto. Las preguntas deben ser generales y no referirse directamente a la numeración del artículo, sino al contenido descrito en el mismo. El formato debe ser:
 
+Pregunta: <pregunta>
+Respuesta: <respuesta>
+Pregunta: <pregunta>
+Respuesta: <respuesta>
+... (y así sucesivamente)
